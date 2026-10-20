@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Charis! 👋
+
+I'm a Computer Science graduate with professional experience in web development, primarily focused on frontend technologies and user interfaces.
+
+I'm interested in combining technical and creative skills to build intuitive, user-centered digital experiences, with a growing focus on UI engineering, design systems, and user experience.
+
+Here on GitHub, you'll find a collection of professional, academic, and personal projects that reflect my journey as a developer and my continuous curiosity for learning and creating.
 
 <!--
 **charis-ant/charis-ant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
